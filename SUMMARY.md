@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Home-SIEM-Lab](README.md)
+* [Creating a Home-SIEM-Lab](README.md)
